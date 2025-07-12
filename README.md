@@ -1,0 +1,25 @@
+## TOPICS
+- IPC
+  - Binder
+  - Files
+  - Signals
+  - Sockets
+  - Pipes
+  - Semaphores
+  - Shared Memory
+    
+- OTA
+- OS
+- DTO
+- Partitions
+- Testing
+- Driver
+- Profiling and Debugging
+- NDK
+- Cuttlefish
+- Architecture
+- SeLinux
+- Bootloader
+- Kernel
+- Camera Pipeline
+- Graphics Pipeline
