@@ -13,11 +13,16 @@
 - DTO
 - Partitions
 - Testing
+  - xTS 
 - Driver
-- Profiling and Debugging
+- Profiling
+- Debugging
 - NDK
 - Cuttlefish
 - Architecture
+  - AIDL
+  - HIDL
+  - Bootloader 
 - SeLinux
 - Bootloader
 - Kernel
