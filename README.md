@@ -15,7 +15,7 @@
 - Partitions
 - Testing
   - xTS 
-- Driver
+
 - Profiling
 - Debugging
 - NDK
@@ -27,6 +27,10 @@
 - SeLinux
 - Bootloader
 - Kernel
+  - Driver
+  - Kernel Debug
+  - eBPF
+ 
 - Camera Pipeline
 - Graphics Pipeline
 - Surfaceflinger
