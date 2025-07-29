@@ -7,9 +7,10 @@
   - Pipes
   - Semaphores
   - Shared Memory
+  - FMQ
     
 - OTA
-- OS
+- Fundamentals of OS
 - DTO
 - Partitions
 - Testing
@@ -28,6 +29,10 @@
 - Kernel
 - Camera Pipeline
 - Graphics Pipeline
+- Surfaceflinger
+- WindowManagerService
+- InputManagerService
+- PackageManagerService
 
 
 
