@@ -14,7 +14,12 @@
 - DTO
 - Partitions
 - Testing
-  - xTS 
+  - GTest
+  - xTS
+    - CTS
+    - VTS
+    - GTS  
+  - Tradefed
 
 - Profiling
 - Debugging
@@ -38,11 +43,12 @@
 - InputManagerService
 - ActivityManagerService
 - Inputflinger
-
-- Zygote
-- init.rc
-- AVB
-- System Property
+- Other Main Topics:
+  - Zygote
+  - init.rc
+  - AVB
+  - System Property
+  - TEE Vs REE
 
 
 
