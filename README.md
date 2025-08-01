@@ -36,7 +36,13 @@
 - Surfaceflinger
 - WindowManagerService
 - InputManagerService
-- PackageManagerService
+- ActivityManagerService
+- Inputflinger
+
+- Zygote
+- init.rc
+- AVB
+- System Property
 
 
 
